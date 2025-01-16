@@ -1,0 +1,13 @@
+TOOLS
+Node-Mailer, NODE JS, dotenv;
+
+INSTALLATION
+ -- npm i nodemailer dotenv
+
+FOR GET THE MAIL PASSWORD
+1.Go to the Google Accounts
+2.Select the Manage Account
+3.Make sure Enabled the Two Step Verification
+4.Search for App passwords.
+5.Go and create the application by provide the name 
+6.Instantly the password will generated
